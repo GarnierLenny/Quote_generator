@@ -180,6 +180,9 @@ function App() {
         <div className="Quote-text">
           {quote?.quote}
         </div>
+        <div className="Quote-text" style={{marginTop: '3%', fontWeight: 'bold'}}>
+          - {quote?.author}
+        </div>
         <button onClick={async () => {
             const newQuote = await getQuote(value);
 
