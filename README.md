@@ -1,12 +1,5 @@
 # Random quote generator
 
-## Context
-
-1/30
-
-This project is part of a personal 30 days fullstack challenge I wanted to do.
-Each project is made within a day but I'll probably upgrade some of them once the challenge is over.
-
 ## Description
 
 This is a random quote generator, the category of the quote is choosable, made with api-ninjas.
